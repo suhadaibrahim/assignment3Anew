@@ -1,0 +1,39 @@
+Enter your treatment: 
+massage
+Type your gender: 
+female
+
+ choose your treatment: [massage, manicure pedicure, facial, hair]
+The Treatment is the best service
+
+Type of massage treatment.
+Type Treatment swedish massage therapy
+Type Treatment aromatherapy massage
+Type Treatment hot stone massage
+Type Treatment reflexology
+Type Treatment sport massage
+This treatment is a good one for health
+
+Type of manicure pedicure treatment.
+Type Treatment regular mani and pedi
+Type Treatment french manicure/pedicure
+Type Treatment nail spa
+Type Treatment parafin
+Type Treatment stone manicure and pedicure
+This treatment is a good one for health
+
+Type of facial treatment.
+Type Treatment sheet masks
+Type Treatment clay
+Type Treatment cream masks
+Type Treatment gel masks
+Type Treatment charcoal masks
+This treatment is a good one for health
+
+Type of hair treatment.
+Type Treatment cutting
+Type Treatment colouring
+Type Treatment rebonding
+Type Treatment stylist
+Type Treatment washing
+This treatment is a good one for health
